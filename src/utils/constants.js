@@ -20,6 +20,6 @@ export const categories = [
     { name: "News", icon: <ImNewspaper />, type: "category" },
     { name: "Sports", icon: <GiDiamondTrophy />, type: "category" },
     { name: "Learning", icon: <RiLightbulbLine />, type: "category" },
-    { name: "CID", icon: <AiFillHome />, type: "category" },
+    { name: "CID hu7", icon: <AiFillHome />, type: "category" },
     { name: "Fashion", icon: <GiEclipse />, type: "category", divider: true,},
 ];
